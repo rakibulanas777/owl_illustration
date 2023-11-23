@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f2c391;
+}
+:root {
+  --nose-and-pow-color: #f37920;
+  --light-brown: #a69586;
+  --medium-brown: #9d8775;
+  --dark-brown: #3b2314;
+}
